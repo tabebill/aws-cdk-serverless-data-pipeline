@@ -3,7 +3,7 @@
 A serverless data pipeline in AWS using the AWS Cloud Development Kit (CDK). 
 Easily provision and orchestrate AWS services to build scalable, reliable, and cost-effective data pipelines for your applications.
 
-This event-driven data pipeline is architected to trigger a lambda function using DynamoDB Streams, upon reception of an INSERT event in a DynamoDB table with streams enabled. The lambda function then creates a csv file, in the S3 bucket provisioned by the CDK code. The lambda function also appends any additional data, into the csv file which was inputed in the DynamoDB table.
+This event-driven data pipeline is architected to trigger a lambda function using DynamoDB Streams, upon reception of an INSERT event in a DynamoDB table with streams enabled. The lambda function then creates a csv file, in the S3 bucket provisioned by the CDK code. The lambda function also appends any additional data, into the csv file which was inputed in the DynamoDB table (by the frontend web app).
 
 ## Table of Contents
 - [Installation](#installation)
