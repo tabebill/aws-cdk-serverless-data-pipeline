@@ -169,6 +169,4 @@ Contributions to this project are welcome! If you have ideas for improvements or
 
 This project is licensed under the GNU license - see the [LICENSE](https://github.com/collective/example.p4p5/blob/master/LICENSE.GPL) file for details.
 
-```
-
-This updated README.md includes information on CDK commands for managing deployments and a section on cleaning up AWS resources using `cdk destroy`. Adjust the placeholders and details as needed for your specific project.
+- This updated README.md includes information on CDK commands for managing deployments and a section on cleaning up AWS resources using `cdk destroy`. Adjust the placeholders and details as needed for your specific project.
