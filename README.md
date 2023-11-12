@@ -82,6 +82,7 @@ If you are a Windows platform, you would activate the virtualenv like this:
    ```
    bash
    % .venv\Scripts\activate.bat
+   ```
 
 ## Requirements
 
