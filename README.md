@@ -64,23 +64,20 @@ you can create the virtualenv manually.
 
 To manually create a virtualenv on MacOS and Linux:
 
-   ```
-   bash
+   ```bash
    $ python3 -m venv .venv
    ```
 
 After the init process completes and the virtualenv is created, you can use the following
 step to activate your virtualenv.
 
-   ```
-   bash
+   ```bash
    $ source .venv/bin/activate
    ```
 
 If you are a Windows platform, you would activate the virtualenv like this:
 
-   ```
-   bash
+   ```bash
    % .venv\Scripts\activate.bat
    ```
 
